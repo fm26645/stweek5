@@ -1,1 +1,1 @@
-This is some changes to commit for the git patch
+This isn't some changes to commit for the git patch
